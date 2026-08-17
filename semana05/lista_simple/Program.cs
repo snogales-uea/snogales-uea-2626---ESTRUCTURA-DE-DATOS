@@ -1,0 +1,10 @@
+﻿var lista = new ListaSimple();
+lista.Agregar(10);
+lista.Agregar(20);
+lista.Agregar(30);
+lista.Agregar(40);
+lista.Agregar(50);
+lista.Agregar(60);
+lista.Agregar(70);
+lista.Agregar(80);
+lista.Mostrar();

@@ -1,0 +1,36 @@
+Ejercicio 1 
+Escribir un programa que almacene una lista de ciudades (por ejemplo: Madrid, París, Londres, Berlín, Roma), 
+y pida al usuario que introduzca una ciudad. El programa debe decir si la ciudad está en la lista. 
+
+Ejercicio 2 
+Escribir un programa que pida al usuario una lista de números separados por comas, los convierta en una lista de enteros 
+y muestre por pantalla solo los números pares. 
+
+Ejercicio 3 
+Escribir un programa que genere una lista con los 10 primeros cuadrados (1², 2², ..., 10²) y los muestre por pantalla. 
+
+Ejercicio 4 
+Escribir un programa que pida al usuario una frase y cree una lista con todas las palabras. Luego debe mostrar 
+la cantidad total de palabras. 
+
+Ejercicio 5 
+Escribir un programa que pregunte al usuario cuántos nombres quiere introducir, los almacene en una lista y luego 
+los muestre en orden alfabético. 
+
+Ejercicio 6 
+Escribir un programa que almacene una lista de contraseñas (por ejemplo: "1234", "qwerty", "admin") y verifique 
+si una contraseña ingresada por el usuario es válida (es decir, está en la lista). 
+
+Ejercicio 7 
+Escribir un programa que genere una lista con los 20 primeros números impares y calcule su suma total. 
+
+Ejercicio 8 
+Escribir un programa que almacene en una lista los caracteres de una palabra introducida por el usuario y elimine 
+todos los caracteres repetidos (manteniendo el orden). 
+
+Ejercicio 9 
+Escribir un programa que lea una lista de números separados por comas y cree otra lista con los mismos números sin duplicados. 
+
+Ejercicio 10 
+Escribir un programa que almacene dos listas de igual longitud con números enteros introducidos por el usuario 
+y calcule la suma de los elementos correspondientes (suma elemento a elemento). 
